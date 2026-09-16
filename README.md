@@ -18,5 +18,6 @@ POO - Videojuego
 documento donde esta unificada toda la informacion, poor medio de Github
 "Las Estrellas" es un videojuego de aventura espacial diseñado por Nazaret Nicol Jiménez Porón para la clase de Programación (5° Perito Contador "A", Clave 16). El proyecto inicia con la configuración de permisos de privacidad y la vinculación de cuentas parentales. A través de un menú principal interactivo controlado por un bucle while, el jugador puede personalizar su avatar, equiparse con herramientas, ver su estado actual y comenzar la partida. Durante los niveles, el usuario se enfrenta a enemigos donde decide si usa su herramienta para derrotarlos fácilmente o si los esquiva perdiendo vidas, gestionando un sistema de Game Over, recompensas especiales al llegar a la meta, progresión entre mundos y un enfrentamiento final para rescatar a la princesa, culminando en los créditos del juego.
 
+
 programador Junior.
 
