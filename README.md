@@ -12,3 +12,10 @@ RNF-01: Arquitectura de Código (POO): El código fuente debe estructurarse obli
 Diagrama de flujo: Cuadro de flujo LLas estrellas
 
 # Fase 3. Desarrollo/ codigo
+POO - Videojuego
+
+# Fase 4. Presentación
+documento donde esta unificada toda la informacion, poor medio de Github
+
+programador Junior.
+
